@@ -2,23 +2,15 @@
   <mj-body>
     <mj-section>
       <mj-column>
-
-
         <mj-divider border-color="#000"></mj-divider>
-
         <mj-text font-size="20px" color="#000" font-family="helvetica">Hello [name]</mj-text>
-
         <mj-text font-size="18px" color="#000" font-family="helvetica">Congratulations! Thank you for completing our questionnaire. Based on your responses, we would be more than happy to advance your application. In order for us to issue an LOI, please use the link below to upload all the required documents. We are dedicated to assisting you and your business obtain the funding you need to grow your business. </mj-text>
-
-        
         <mj-button background-color="#000" href="#">Spark Link</mj-button>
-
         <mj-text font-size="18px" color="#000" font-family="helvetica">
          If you prefer to speak with one of our dedicated Small Business Loan Officers please click here to schedule an appointment. </mj-text>
         <mj-text font-size="14px" color="#000" font-family="helvetica">
           If you are no longer interested in a small business loan, please the below</mj-text>
         <mj-button font-size="8px" background-color="#000" href="#">Unsubscribe</mj-button>
-
       </mj-column>
     </mj-section>
   </mj-body>
