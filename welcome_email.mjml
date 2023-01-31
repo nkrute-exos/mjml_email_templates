@@ -16,9 +16,11 @@
 
         <mj-text font-size="18px" color="#000" font-family="helvetica">
           If you prefer to speak with one of our dedicated Small Business Loan Officers please click here to schedule an appointment. </mj-text>
-        <mj-text font-size="18px" color="#000" font-family="helvetica">
-          If you are no longer interested in a small business loan, please click here.</mj-text>
+
         <mj-text font-size="18px" color="#000" font-family="helvetica">We look forward to helping you grow your business.</mj-text>
+        <mj-text font-size="14px" color="#000" font-family="helvetica">
+          If you are no longer interested in a small business loan, please the button below.</mj-text>
+        <mj-button font-size="8px" background-color="#000" href="#">Unsubscribe</mj-button>
 
       </mj-column>
     </mj-section>
