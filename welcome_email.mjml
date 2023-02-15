@@ -4,14 +4,15 @@
       <mj-column>
         <mj-divider border-color="#000"></mj-divider>
         <mj-text font-size="20px" color="#000" font-family="helvetica">Hello [name]</mj-text>
-        <mj-text font-size="18px" color="#000" font-family="helvetica"> Thank you for contacting Exos Lending for your Small Business Financing needs. We believe your company is an exciting one and we’re interested in learning more about it. At Exos Lending we help small business owners like you everyday by delivering a smooth lending experience with a commitment to close within [x] days.</mj-text>
+        <mj-text font-size="18px" color="#000" font-family="helvetica">Thank you for contacting Exos Lending for your small business financing needs. We believe your company presents an exciting business opportunity and we’re interested in learning more about it. At Exos Lending we help small business owners like you everyday by delivering a smooth lending experience with a commitment to close within 45 days for qualifying borrowers.</mj-text>
         <mj-text font-size="18px" color="#000" font-family="helvetica"> In order to advance your application, please click the link below to answer a few questions. </mj-text>
         <mj-button background-color="#000" href="https://immito.lendwithspark.com/widget/apply?version=1">Click Here</mj-button>
         <mj-text font-size="18px" color="#000" font-family="helvetica">
-          If you prefer to speak with one of our dedicated Small Business Loan Officers please click here to schedule an appointment. </mj-text>
+          If you prefer to speak with one of our dedicated Small Business Loan Officers please click the button below to schedule an appointment. </mj-text>
+                <mj-button background-color="#000" href="#">Click Here [BDO Calendly Link]</mj-button>
         <mj-text font-size="18px" color="#000" font-family="helvetica">We look forward to helping you grow your business.</mj-text>
         <mj-text font-size="14px" color="#000" font-family="helvetica">
-          If you are no longer interested in a small business loan, please the button below.</mj-text>
+          If you are no longer interested in a small business loan, please click the button below.</mj-text>
         <mj-button font-size="8px" background-color="#000" href="#">Unsubscribe</mj-button>
       </mj-column>
     </mj-section>
